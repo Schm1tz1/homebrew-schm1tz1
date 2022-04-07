@@ -5,7 +5,7 @@ This is my own Tap — a source for the [Brew](https://brew.sh) macOS package ma
 
 ## Available Casks ##
 
-* [sparkle1](https://sparkle-project.org/) in the latest v1 Version for backwards compatibility (e.g. compiling wireshark)
+* [sparkle1](https://sparkle-project.org/) in the latest v1 Version (1.27.1) for backwards compatibility (e.g. compiling wireshark)
 
 ## Installation ##
 
