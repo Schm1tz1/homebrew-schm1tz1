@@ -11,5 +11,5 @@ cask "sparkle1" do
     url :url
     strategy :github_latest
   end
-  app "Sparkle Test App.app"
+  # app "Sparkle Test App.app"
 end
